@@ -1,0 +1,70 @@
+body{
+   color: black;
+}
+
+h1{
+    text-align: center;
+    padding: 15%;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    margin-bottom: 0px !important;
+    background: wheat;
+  
+}
+.logo{
+    width:70px;
+}
+.navbar-brand{
+    color: #ea1c2c;
+   
+    width: 40px;
+}
+
+.container-fluid{
+ 
+    line-height: 1.5; 
+}
+
+#events{
+    text-align: center;
+    background-color: rgb(49, 40, 49);
+}
+.event-photo{
+    width: 30%;
+
+}
+h3{
+    font-size: 3rem !important;
+    color: wheat; 
+    padding: 15px 7px;
+}
+
+#sponsers{
+    background: wheat;
+    text-align: center;
+    padding-bottom: 3%;
+  
+}
+.sponser-icon{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+
+#contact{
+    text-align: center;
+    color: #ffff;
+background:rgb(49, 40, 49);
+    padding: 7% 15% ;
+}
+
+.social-icon {
+    margin:20px 10px;
+}
+.copyright-icon{
+  margin-right: 5px;
+}
+.link{
+    color: #ffff;
+}
+.link:hover{
+    color: wheat;
+}
